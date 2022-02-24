@@ -1,9 +1,9 @@
 # Entertainer-Data-Analysis
 iNeuron internship - Entertainer Data Analysis.
 Hello all. We the team of 4 members -
-Amirta V
-Sneha Arun
-Sudhanshu Dandriyal
+Amirta V,
+Sneha Arun,
+Sudhanshu Dandriyal and
 Vaibhav Joshi
 have completed the Project "Entertainer Data Analysis" by iNeuron.
 
